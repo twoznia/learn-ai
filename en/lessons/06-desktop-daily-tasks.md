@@ -1,0 +1,115 @@
+# Lesson 06 — Everyday Tasks with Claude Desktop
+
+⏱️ **10 minutes** · Level: Beginner · Needs: Claude Desktop (Lesson 5)
+
+[← Prev](05-install-claude-desktop.md) · [Course home](../README.md) · [Next: Projects & instructions →](07-projects-and-memory.md)
+
+---
+
+## 🧠 Theory (2 min)
+
+Now that Claude is one click away, the goal is to build the **habit** of reaching for it. The trick is to have a few **ready-made workflows** so you don't start from a blank page. Below are copy-paste recipes for the most common everyday jobs. Fill in the `<brackets>` and go.
+
+---
+
+## 🛠️ Practice — 5 real workflows (7 min)
+
+Open Claude Desktop and try at least three of these with your own real content.
+
+### 1. 📧 Reply to an email
+
+```text
+You are my communication assistant. Below is an email I received.
+Write a reply that is polite, clear, and gets to the point in under 5 sentences.
+Match a warm-but-professional tone. Give me 2 versions: shorter and slightly warmer.
+
+EMAIL:
+<paste the email you received>
+
+What I want to say back (rough notes):
+<a few words about your answer>
+```
+
+### 2. 📄 Summarize a long document or thread
+
+```text
+Summarize the text below for a busy reader:
+- 3 key points
+- Any deadlines, numbers, or names
+- One recommended next action
+
+TEXT:
+<paste it>
+```
+
+### 3. 🗓️ Plan your day or a project
+
+```text
+Help me plan my day. Here are my tasks and rough durations:
+<list tasks, e.g. "email 30min, report 2h, gym 1h, call dentist">
+
+Constraints: I work best in the morning, lunch at 12:30.
+Give me a realistic time-blocked schedule as a table, and flag anything unrealistic.
+```
+
+### 4. 🧮 Make sense of numbers/data
+
+```text
+Here is some data (pasted from a spreadsheet). In plain English:
+1. What story does this data tell?
+2. What stands out (highest, lowest, surprising)?
+3. One chart I could make and why.
+
+DATA:
+<paste rows>
+```
+
+### 5. 🎓 Learn something new fast
+
+```text
+I want to understand <topic> well enough to hold a conversation about it.
+Teach me in 3 layers: (1) a one-sentence summary, (2) the 5 core ideas,
+(3) one common misconception. End with 3 questions to test myself.
+```
+
+---
+
+## 🔁 The improvement loop (the real skill)
+
+The first answer is a **draft**, not the final word. Push back:
+
+```text
+Good start. Make it 30% shorter and more casual.
+```
+```text
+Add a sentence acknowledging the delay.
+```
+```text
+Give me 3 subject line options for this email.
+```
+
+Talking *back* to Claude is where beginners level up fastest. Treat it like a colleague you're iterating with.
+
+---
+
+## ✅ Checkpoint
+
+- [ ] You completed at least **3** workflows with real content.
+- [ ] You refined at least one answer with a follow-up ("shorter", "warmer", etc.).
+- [ ] Claude Desktop feels like a tool you'd actually reach for.
+
+---
+
+## 🎯 Homework
+
+Pick the workflow you'll use most and paste it into your `my-prompts.txt` file. Tomorrow, use it on a real task **before** you'd normally do it by hand. Time how long it saves you.
+
+---
+
+## 💡 Key takeaways
+
+- Keep a handful of fill-in-the-blank workflows ready.
+- The first reply is a draft — **iterate** with short follow-ups.
+- Building the *habit* of opening Claude is the whole game.
+
+[← Prev](05-install-claude-desktop.md) · [Course home](../README.md) · [Next: Projects & instructions →](07-projects-and-memory.md)
