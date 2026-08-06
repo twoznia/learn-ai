@@ -50,6 +50,19 @@ Wyciśnij maksimum z **abonamentu Pro/Max** — MCP, Skille, kontekst i agenci �
 | D4 | [Skille i konektory (MCP)](track-d/04-skille-i-konektory.md) | Prawdziwe pliki ze Skilli; wepnij Claude w swoje narzędzia |
 | D5 | [Agenci i Claude Code](track-d/05-agenci-i-claude-code.md) | Uruchom Claude Code na swoim planie — bez klucza API |
 
+## 🅴 Ścieżka E — Mistrzostwo MCP (pogłębiona)
+
+Pełne szkolenie z Model Context Protocol: serwery dużych dostawców (GitHub, Atlassian, Azure), budowa własnego serwera z narzędziami i bezpieczne uruchamianie tego wszystkiego.
+
+| # | Lekcja | Czego się nauczysz |
+|---|--------|-------------------|
+| E1 | [Czym naprawdę jest MCP](track-e/01-czym-jest-mcp.md) | Hosty, serwery, narzędzia/zasoby/prompty; lokalny vs zdalny |
+| E2 | [GitHub MCP](track-e/02-github-mcp.md) | Zgłoszenia, PR-y, recenzja kodu — przez zatwierdzone narzędzia |
+| E3 | [Atlassian MCP](track-e/03-atlassian-mcp.md) | Zgłoszenia Jira i strony Confluence, przepływy między narzędziami |
+| E4 | [Azure MCP](track-e/04-azure-mcp.md) | Eksploruj chmurę zwykłym językiem (najpierw tylko-odczyt) |
+| E5 | [Zbuduj własny serwer MCP](track-e/05-zbuduj-wlasny-serwer-mcp.md) | Zamień funkcje Pythona w narzędzia, które Claude woła |
+| E6 | [MCP na skalę: auth i bezpieczeństwo](track-e/06-mcp-bezpieczenstwo.md) | Najmniejsze uprawnienia, zatwierdzenia, zarządzanie wieloma serwerami |
+
 ---
 
 ## Jak korzystać z kursu
