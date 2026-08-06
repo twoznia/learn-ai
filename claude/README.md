@@ -17,4 +17,12 @@ Praktyczny kurs dla początkujących, który uczy, jak **używać AI opartego na
 
 ---
 
+## Finished the basics? · Skończyłeś podstawy?
+
+Continue with the **[Advanced Claude course →](advanced/README.md)** — three deep-dive tracks (Power User, Builder, Automator) that pick up where Lesson 18 leaves off.
+
+Kontynuuj **[kursem Claude zaawansowanym →](advanced/README.md)** — trzy pogłębione ścieżki (Zaawansowany użytkownik, Budowniczy, Automatyzator), które kontynuują tam, gdzie kończy Lekcja 18.
+
+---
+
 *Both versions cover the same 18 lessons. · Obie wersje zawierają te same 18 lekcji.*
