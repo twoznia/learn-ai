@@ -50,6 +50,19 @@ Get the most out of your **Pro/Max subscription** — MCP, Skills, context, and 
 | D4 | [Skills & connectors (MCP)](track-d/04-skills-and-connectors.md) | Real files from Skills; plug Claude into your tools |
 | D5 | [Agents & Claude Code](track-d/05-agents-and-claude-code.md) | Run Claude Code on your plan — no API key |
 
+## 🅴 Track E — MCP Mastery (deep dive)
+
+A full training on the Model Context Protocol: the big provider servers (GitHub, Atlassian, Azure), building your own server with tools, and running it all safely.
+
+| # | Lesson | What you'll learn |
+|---|--------|-------------------|
+| E1 | [MCP explained properly](track-e/01-mcp-explained.md) | Hosts, servers, tools/resources/prompts; local vs remote |
+| E2 | [GitHub MCP](track-e/02-github-mcp.md) | Issues, PRs, code review — via approved tool calls |
+| E3 | [Atlassian MCP](track-e/03-atlassian-mcp.md) | Jira tickets & Confluence pages, cross-tool workflows |
+| E4 | [Azure MCP](track-e/04-azure-mcp.md) | Explore your cloud in plain English (read-only first) |
+| E5 | [Build your own MCP server](track-e/05-build-your-own-mcp-server.md) | Turn Python functions into tools Claude can call |
+| E6 | [MCP at scale: auth & safety](track-e/06-mcp-at-scale-security.md) | Least privilege, approvals, and managing many servers |
+
 ---
 
 ## How to use this course

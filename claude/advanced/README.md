@@ -25,8 +25,10 @@ Kolejny krok po kursie podstawowym. Trzy **ścieżki** rozwijają trzy kierunki 
 - **🅱️ Builder** — write real apps: conversations with memory, streaming, and a small tool you'll keep.
 - **🅲 Automator** — make Claude do repetitive work: scheduled scripts, pipelines, and multi-file projects with Claude Code.
 - **🅳 Subscription Power** — get the most from your Pro/Max plan (no API): context & tokens, Skills, connectors (MCP), and agents.
+- **🅴 MCP Mastery** — a full MCP training: GitHub, Atlassian, and Azure servers, building your own server with tools, and running it all safely.
 
 - **🅰️ Zaawansowany użytkownik** — wyciśnij z Claude maksimum bez kodu: Projekty, prawdziwa biblioteka promptów i zaawansowane MCP.
 - **🅱️ Budowniczy** — pisz prawdziwe aplikacje: rozmowy z pamięcią, streaming i małe narzędzie do zachowania.
 - **🅲 Automatyzator** — niech Claude wykonuje powtarzalną pracę: skrypty zaplanowane, potoki i projekty wielo-plikowe z Claude Code.
 - **🅳 Moc abonamentu** — wyciśnij maksimum z planu Pro/Max (bez API): kontekst i tokeny, Skille, konektory (MCP) i agenci.
+- **🅴 Mistrzostwo MCP** — pełne szkolenie z MCP: serwery GitHub, Atlassian i Azure, budowa własnego serwera z narzędziami i bezpieczne uruchamianie.
