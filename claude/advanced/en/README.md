@@ -30,7 +30,13 @@ Write real Python apps on top of the Claude API.
 
 ## 🅲 Track C — Automator
 
-*Coming soon — scheduled scripts, pipelines, and multi-file projects with Claude Code.*
+Make Claude do repetitive work for you, hands-free.
+
+| # | Lesson | What you'll learn |
+|---|--------|-------------------|
+| C1 | [Schedule scripts with Task Scheduler](track-c/01-schedule-with-task-scheduler.md) | A daily AI brief that runs itself |
+| C2 | [Build a pipeline](track-c/02-pipelines.md) | Read files → ask Claude → save results, in batch |
+| C3 | [Multi-file projects with Claude Code](track-c/03-multi-file-projects.md) | Plan and build bigger projects with AI |
 
 ---
 
