@@ -1,44 +1,92 @@
-# Learn AI — Beginner Courses · Kursy AI dla początkujących
+# Learn AI · Kursy AI
 
-Hands-on, beginner-friendly courses that teach you how to **actually use AI** on your own **Windows** PC — from your first browser chat to writing code in Python, PowerShell, VS Code and the command line. Every lesson is ~10 minutes, with theory, practice, a checkpoint and homework.
+**🇬🇧 [English](#-english) · 🇵🇱 [Polski](#-polski)**
 
-Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI** na własnym komputerze z **Windows** — od pierwszej rozmowy w przeglądarce po pisanie kodu w Pythonie, PowerShell, VS Code i wierszu poleceń. Każda lekcja trwa ~10 minut i zawiera teorię, praktykę, sprawdzenie i zadanie.
+Hands-on, beginner-friendly courses that teach you how to **actually use AI** on your own **Windows** PC — with an **advanced** track for each provider once you're ready to go further.
 
----
-
-## Choose a course · Wybierz kurs
-
-| Course · Kurs | Provider | 🇬🇧 English | 🇵🇱 Polski |
-|---------------|----------|-----------|-----------|
-| **🟣 Learn AI with Claude** | Anthropic | [Start →](claude/en/README.md) | [Zacznij →](claude/pl/README.md) |
-| **🔷 Learn AI with Gemini** | Google | [Start →](gemini/en/README.md) | [Zacznij →](gemini/pl/README.md) |
-| **🟢 Learn AI with ChatGPT** | OpenAI | [Start →](gpt/en/README.md) | [Zacznij →](gpt/pl/README.md) |
-
-Or open a course's landing page: [Claude](claude/README.md) · [Gemini](gemini/README.md) · [ChatGPT](gpt/README.md)
+Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI** na własnym komputerze z **Windows** — z **zaawansowaną** ścieżką dla każdego dostawcy, gdy zechcesz iść dalej.
 
 ---
 
-## What's inside each course · Co zawiera każdy kurs
+## 🇬🇧 English
+
+Hands-on, beginner-friendly courses that teach you how to **actually use AI** on your own **Windows** PC — from your first browser chat to writing code in Python, PowerShell, VS Code and the command line. Every lesson is ~10 minutes, with theory, practice, a checkpoint and homework. When you finish, each provider has an **advanced** course with three growth tracks.
+
+### Beginner courses
+
+| Course | Provider | Start |
+|--------|----------|-------|
+| 🟣 **Learn AI with Claude** | Anthropic | [Start →](claude/en/README.md) |
+| 🔷 **Learn AI with Gemini** | Google | [Start →](gemini/en/README.md) |
+| 🟢 **Learn AI with ChatGPT** | OpenAI | [Start →](gpt/en/README.md) |
+
+### Advanced courses
+
+Three growth tracks each — 🅰️ Power User, 🅱️ Builder, 🅲 Automator — with hands-on 15-minute lessons.
+
+| Course | Provider | Open |
+|--------|----------|------|
+| 🟣 **Advanced Claude** | Anthropic | [Open →](claude/advanced/en/README.md) |
+| 🔷 **Advanced Gemini** | Google | [Open →](gemini/advanced/en/README.md) |
+| 🟢 **Advanced ChatGPT** | OpenAI | [Open →](gpt/advanced/en/README.md) |
+
+### What's inside each beginner course
 
 All three courses follow the same beginner-friendly path (the tools differ per provider):
 
-Wszystkie trzy kursy podążają tą samą przyjazną początkującym ścieżką (narzędzia różnią się zależnie od dostawcy):
+1. **Foundations** — what AI is, first chat, prompting, files & images
+2. **In your day** — desktop/browser app, everyday workflows, custom assistants
+3. **First code** — install Python, get an API key, first script, PowerShell
+4. **Coding with AI** — VS Code extension, command-line assistant, a mini project
+5. **Level up** — connect AI to live data/tools, prompt engineering, costs & safety, next steps
 
-1. **Foundations · Podstawy** — what AI is, first chat, prompting, files & images
-2. **In your day · Na co dzień** — desktop/browser app, everyday workflows, custom assistants
-3. **First code · Pierwszy kod** — install Python, get an API key, first script, PowerShell
-4. **Coding with AI · Kodowanie z AI** — VS Code extension, command-line assistant, a mini project
-5. **Level up · Wyższy poziom** — connect AI to live data/tools, prompt engineering, costs & safety, next steps
-
----
-
-## Which one should I pick? · Który wybrać?
+### Which one should I pick?
 
 - **New to all this?** Any is a great start. Pick the one whose app you already use.
-- **Nowy w temacie?** Każdy to świetny początek. Wybierz ten, którego aplikacji już używasz.
 - **Want to compare?** Do more than one — the concepts transfer, and you'll see how each provider's tools differ.
-- **Chcesz porównać?** Zrób więcej niż jeden — koncepcje się przenoszą, a zobaczysz, jak różnią się narzędzia dostawców.
+- **Finished a beginner course?** Continue with the matching **advanced** course above.
 
 ---
 
-*Educational material. Product screens and names change over time — the surrounding steps still apply. · Materiał edukacyjny. Ekrany i nazwy w produktach zmieniają się z czasem — otaczające kroki nadal obowiązują.*
+## 🇵🇱 Polski
+
+Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI** na własnym komputerze z **Windows** — od pierwszej rozmowy w przeglądarce po pisanie kodu w Pythonie, PowerShell, VS Code i wierszu poleceń. Każda lekcja trwa ~10 minut i zawiera teorię, praktykę, sprawdzenie i zadanie. Po ukończeniu każdy dostawca ma kurs **zaawansowany** z trzema ścieżkami rozwoju.
+
+### Kursy dla początkujących
+
+| Kurs | Dostawca | Zacznij |
+|------|----------|---------|
+| 🟣 **AI z Claude** | Anthropic | [Zacznij →](claude/pl/README.md) |
+| 🔷 **AI z Gemini** | Google | [Zacznij →](gemini/pl/README.md) |
+| 🟢 **AI z ChatGPT** | OpenAI | [Zacznij →](gpt/pl/README.md) |
+
+### Kursy zaawansowane
+
+Po trzy ścieżki rozwoju — 🅰️ Zaawansowany użytkownik, 🅱️ Budowniczy, 🅲 Automatyzator — z praktycznymi lekcjami po 15 minut.
+
+| Kurs | Dostawca | Otwórz |
+|------|----------|--------|
+| 🟣 **Claude zaawansowany** | Anthropic | [Otwórz →](claude/advanced/pl/README.md) |
+| 🔷 **Gemini zaawansowany** | Google | [Otwórz →](gemini/advanced/pl/README.md) |
+| 🟢 **ChatGPT zaawansowany** | OpenAI | [Otwórz →](gpt/advanced/pl/README.md) |
+
+### Co zawiera każdy kurs dla początkujących
+
+Wszystkie trzy kursy podążają tą samą przyjazną początkującym ścieżką (narzędzia różnią się zależnie od dostawcy):
+
+1. **Podstawy** — czym jest AI, pierwsza rozmowa, prompty, pliki i obrazy
+2. **Na co dzień** — aplikacja desktop/przeglądarka, codzienne przepływy, własni asystenci
+3. **Pierwszy kod** — instalacja Pythona, klucz API, pierwszy skrypt, PowerShell
+4. **Kodowanie z AI** — rozszerzenie VS Code, asystent w wierszu poleceń, miniprojekt
+5. **Wyższy poziom** — podłącz AI do danych/narzędzi na żywo, inżynieria promptów, koszty i bezpieczeństwo, kolejne kroki
+
+### Który wybrać?
+
+- **Nowy w temacie?** Każdy to świetny początek. Wybierz ten, którego aplikacji już używasz.
+- **Chcesz porównać?** Zrób więcej niż jeden — koncepcje się przenoszą, a zobaczysz, jak różnią się narzędzia dostawców.
+- **Skończyłeś kurs podstawowy?** Kontynuuj odpowiednim kursem **zaawansowanym** powyżej.
+
+---
+
+*Educational material. Product screens and names change over time — the surrounding steps still apply.*
+*Materiał edukacyjny. Ekrany i nazwy w produktach zmieniają się z czasem — otaczające kroki nadal obowiązują.*
