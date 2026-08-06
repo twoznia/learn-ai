@@ -63,6 +63,30 @@ A full training on the Model Context Protocol: the big provider servers (GitHub,
 | E5 | [Build your own MCP server](track-e/05-build-your-own-mcp-server.md) | Turn Python functions into tools Claude can call |
 | E6 | [MCP at scale: auth & safety](track-e/06-mcp-at-scale-security.md) | Least privilege, approvals, and managing many servers |
 
+## 🅵 Track F — Beyond Chat (Pro power features)
+
+The Pro features most people never discover: build things, run code on data, get cited answers, plug into your tools.
+
+| # | Lesson | What you'll learn |
+|---|--------|-------------------|
+| F1 | [Artifacts: build & publish](track-f/01-artifacts.md) | Live, editable apps/docs/diagrams you can share |
+| F2 | [The analysis tool](track-f/02-analysis-tool.md) | Claude runs real code on your data — accurate, no coding |
+| F3 | [Research & web search](track-f/03-research-and-web.md) | Current, cited, verifiable answers |
+| F4 | [Productivity connectors](track-f/04-productivity-connectors.md) | Drive, Gmail, Calendar, Slack, Notion — no code |
+| F5 | [Memory, styles & workflow](track-f/05-memory-styles-workflow.md) | Make every chat feel tailored to you |
+
+## 🅶 Track G — Claude Code in Depth
+
+Go past "make a file." Turn Claude Code into a configured, safe, powerful coding partner.
+
+| # | Lesson | What you'll learn |
+|---|--------|-------------------|
+| G1 | [CLAUDE.md & plan mode](track-g/01-claude-md-and-plan-mode.md) | Project memory + planning before edits |
+| G2 | [Slash commands](track-g/02-slash-commands.md) | Built-in commands + your own reusable ones |
+| G3 | [Subagents](track-g/03-subagents.md) | Specialized helpers with their own tools & context |
+| G4 | [Hooks](track-g/04-hooks.md) | Run your commands automatically (format, guardrails) |
+| G5 | [MCP in Claude Code](track-g/05-mcp-in-claude-code.md) | Combine files, terminal, and MCP tools in one flow |
+
 ---
 
 ## How to use this course
