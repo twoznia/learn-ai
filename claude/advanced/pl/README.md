@@ -30,7 +30,13 @@ Pisz prawdziwe aplikacje w Pythonie na API Claude.
 
 ## 🅲 Ścieżka C — Automatyzator
 
-*Wkrótce — skrypty zaplanowane, potoki i projekty wielo-plikowe z Claude Code.*
+Niech Claude wykonuje powtarzalną pracę za Ciebie, bez udziału rąk.
+
+| # | Lekcja | Czego się nauczysz |
+|---|--------|-------------------|
+| C1 | [Harmonogram zadań (Task Scheduler)](track-c/01-harmonogram-zadan.md) | Codzienny brief AI, który sam się uruchamia |
+| C2 | [Zbuduj potok](track-c/02-potoki.md) | Czytaj pliki → pytaj Claude → zapisuj wyniki, wsadowo |
+| C3 | [Projekty wielo-plikowe z Claude Code](track-c/03-projekty-wieloplikowe.md) | Planuj i buduj większe projekty z AI |
 
 ---
 
