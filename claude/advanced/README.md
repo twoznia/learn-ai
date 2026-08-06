@@ -24,7 +24,9 @@ Kolejny krok po kursie podstawowym. Trzy **ścieżki** rozwijają trzy kierunki 
 - **🅰️ Power User** — get the most out of Claude without writing code: Projects, a real prompt library, and advanced MCP.
 - **🅱️ Builder** — write real apps: conversations with memory, streaming, and a small tool you'll keep.
 - **🅲 Automator** — make Claude do repetitive work: scheduled scripts, pipelines, and multi-file projects with Claude Code.
+- **🅳 Subscription Power** — get the most from your Pro/Max plan (no API): context & tokens, Skills, connectors (MCP), and agents.
 
 - **🅰️ Zaawansowany użytkownik** — wyciśnij z Claude maksimum bez kodu: Projekty, prawdziwa biblioteka promptów i zaawansowane MCP.
 - **🅱️ Budowniczy** — pisz prawdziwe aplikacje: rozmowy z pamięcią, streaming i małe narzędzie do zachowania.
 - **🅲 Automatyzator** — niech Claude wykonuje powtarzalną pracę: skrypty zaplanowane, potoki i projekty wielo-plikowe z Claude Code.
+- **🅳 Moc abonamentu** — wyciśnij maksimum z planu Pro/Max (bez API): kontekst i tokeny, Skille, konektory (MCP) i agenci.

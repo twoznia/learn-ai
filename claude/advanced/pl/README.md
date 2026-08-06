@@ -38,6 +38,18 @@ Niech Claude wykonuje powtarzalną pracę za Ciebie, bez udziału rąk.
 | C2 | [Zbuduj potok](track-c/02-potoki.md) | Czytaj pliki → pytaj Claude → zapisuj wyniki, wsadowo |
 | C3 | [Projekty wielo-plikowe z Claude Code](track-c/03-projekty-wieloplikowe.md) | Planuj i buduj większe projekty z AI |
 
+## 🅳 Ścieżka D — Moc abonamentu (bez API)
+
+Wyciśnij maksimum z **abonamentu Pro/Max** — MCP, Skille, kontekst i agenci — bez dotykania płatnego API.
+
+| # | Lekcja | Czego się nauczysz |
+|---|--------|-------------------|
+| D1 | [Wykorzystaj abonament](track-d/01-wykorzystaj-abonament.md) | Pro/Max vs API, plany i co jest wliczone |
+| D2 | [Okno kontekstowe](track-d/02-okno-kontekstowe.md) | Czemu długie czaty kosztują więcej i kiedy zacząć od nowa |
+| D3 | [Oszczędzaj tokeny i limity](track-d/03-oszczedzaj-tokeny-i-limity.md) | Rozciągnij użycie; efektywne nawyki |
+| D4 | [Skille i konektory (MCP)](track-d/04-skille-i-konektory.md) | Prawdziwe pliki ze Skilli; wepnij Claude w swoje narzędzia |
+| D5 | [Agenci i Claude Code](track-d/05-agenci-i-claude-code.md) | Uruchom Claude Code na swoim planie — bez klucza API |
+
 ---
 
 ## Jak korzystać z kursu
