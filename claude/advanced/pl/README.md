@@ -63,6 +63,30 @@ Pełne szkolenie z Model Context Protocol: serwery dużych dostawców (GitHub, A
 | E5 | [Zbuduj własny serwer MCP](track-e/05-zbuduj-wlasny-serwer-mcp.md) | Zamień funkcje Pythona w narzędzia, które Claude woła |
 | E6 | [MCP na skalę: auth i bezpieczeństwo](track-e/06-mcp-bezpieczenstwo.md) | Najmniejsze uprawnienia, zatwierdzenia, zarządzanie wieloma serwerami |
 
+## 🅵 Ścieżka F — Poza czatem (funkcje mocy Pro)
+
+Funkcje Pro, których większość nigdy nie odkrywa: buduj rzeczy, uruchamiaj kod na danych, uzyskuj cytowane odpowiedzi, wepnij się w swoje narzędzia.
+
+| # | Lekcja | Czego się nauczysz |
+|---|--------|-------------------|
+| F1 | [Artefakty: buduj i publikuj](track-f/01-artefakty.md) | Żywe, edytowalne aplikacje/dokumenty/diagramy do udostępnienia |
+| F2 | [Narzędzie analizy](track-f/02-narzedzie-analizy.md) | Claude uruchamia prawdziwy kod na Twoich danych — dokładnie, bez kodowania |
+| F3 | [Badania i wyszukiwanie](track-f/03-badania-i-web.md) | Aktualne, cytowane, weryfikowalne odpowiedzi |
+| F4 | [Konektory produktywności](track-f/04-konektory-produktywnosci.md) | Drive, Gmail, Kalendarz, Slack, Notion — bez kodu |
+| F5 | [Pamięć, style i przepływ](track-f/05-pamiec-style-i-przeplyw.md) | Spraw, by każdy czat był skrojony pod Ciebie |
+
+## 🅶 Ścieżka G — Claude Code w głąb
+
+Wyjdź poza „zrób plik”. Zamień Claude Code w skonfigurowanego, bezpiecznego, potężnego partnera do kodowania.
+
+| # | Lekcja | Czego się nauczysz |
+|---|--------|-------------------|
+| G1 | [CLAUDE.md i tryb planowania](track-g/01-claude-md-i-tryb-planowania.md) | Pamięć projektu + planowanie przed edycjami |
+| G2 | [Komendy ukośnik](track-g/02-komendy-ukosnik.md) | Wbudowane komendy + własne wielokrotnego użytku |
+| G3 | [Podagenci](track-g/03-podagenci.md) | Wyspecjalizowani pomocnicy z własnymi narzędziami i kontekstem |
+| G4 | [Haki](track-g/04-haki.md) | Uruchamiaj swoje polecenia automatycznie (format, barierki) |
+| G5 | [MCP w Claude Code](track-g/05-mcp-w-claude-code.md) | Łącz pliki, terminal i narzędzia MCP w jednym przepływie |
+
 ---
 
 ## Jak korzystać z kursu
