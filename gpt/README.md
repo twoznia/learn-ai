@@ -10,10 +10,10 @@ Praktyczny kurs dla początkujących, który uczy, jak **używać AI opartego na
 
 ## Choose your language · Wybierz język
 
-| | Course | Kurs |
-|---|--------|------|
-| 🇬🇧 **English** | [Start the course →](en/README.md) | |
-| 🇵🇱 **Polski** | | [Rozpocznij kurs →](pl/README.md) |
+| Language · Język | |
+|------------------|---|
+| 🇬🇧 **English** | [Start the course →](en/README.md) |
+| 🇵🇱 **Polski** | [Rozpocznij kurs →](pl/README.md) |
 
 ---
 
