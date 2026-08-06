@@ -20,7 +20,13 @@ Wyciśnij z Claude znacznie więcej bez pisania kodu.
 
 ## 🅱️ Ścieżka B — Budowniczy (kodowanie)
 
-*Wkrótce — rozmowy z pamięcią, streaming i mała aplikacja do zachowania.*
+Pisz prawdziwe aplikacje w Pythonie na API Claude.
+
+| # | Lekcja | Czego się nauczysz |
+|---|--------|-------------------|
+| B1 | [Rozmowy z pamięcią](track-b/01-rozmowy-z-pamiecia.md) | Wieloturowy czat, który pamięta |
+| B2 | [Odpowiedzi strumieniowe](track-b/02-streaming.md) | Pokazuj odpowiedzi w trakcie generowania |
+| B3 | [Zbuduj małą aplikację](track-b/03-zbuduj-aplikacje.md) | Pomocnik do nauki (CLI), który zachowasz |
 
 ## 🅲 Ścieżka C — Automatyzator
 
