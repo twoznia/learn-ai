@@ -38,6 +38,18 @@ Make Claude do repetitive work for you, hands-free.
 | C2 | [Build a pipeline](track-c/02-pipelines.md) | Read files → ask Claude → save results, in batch |
 | C3 | [Multi-file projects with Claude Code](track-c/03-multi-file-projects.md) | Plan and build bigger projects with AI |
 
+## 🅳 Track D — Subscription Power (no API)
+
+Get the most out of your **Pro/Max subscription** — MCP, Skills, context, and agents — without ever touching the paid API.
+
+| # | Lesson | What you'll learn |
+|---|--------|-------------------|
+| D1 | [Make the most of your subscription](track-d/01-make-the-most-of-your-subscription.md) | Pro/Max vs the API, plans, and what's included |
+| D2 | [The context window](track-d/02-context-window.md) | Why long chats cost more, and when to start fresh |
+| D3 | [Save tokens & manage limits](track-d/03-save-tokens-and-manage-limits.md) | Stretch your usage; efficient habits |
+| D4 | [Skills & connectors (MCP)](track-d/04-skills-and-connectors.md) | Real files from Skills; plug Claude into your tools |
+| D5 | [Agents & Claude Code](track-d/05-agents-and-claude-code.md) | Run Claude Code on your plan — no API key |
+
 ---
 
 ## How to use this course
