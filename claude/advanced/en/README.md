@@ -20,7 +20,13 @@ Get dramatically more out of Claude without writing code.
 
 ## 🅱️ Track B — Builder (coding)
 
-*Coming soon — conversations with memory, streaming, and a small app you'll keep.*
+Write real Python apps on top of the Claude API.
+
+| # | Lesson | What you'll learn |
+|---|--------|-------------------|
+| B1 | [Conversations with memory](track-b/01-conversations-with-memory.md) | Multi-turn chat that remembers |
+| B2 | [Streaming responses](track-b/02-streaming.md) | Show replies as they're generated |
+| B3 | [Build a small app](track-b/03-build-an-app.md) | A study-buddy CLI you'll actually keep |
 
 ## 🅲 Track C — Automator
 
