@@ -12,31 +12,32 @@ Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI
 |---------------|----------|-----------|-----------|
 | **🟣 Learn AI with Claude** | Anthropic | [Start →](claude/en/README.md) | [Zacznij →](claude/pl/README.md) |
 | **🔷 Learn AI with Gemini** | Google | [Start →](gemini/en/README.md) | [Zacznij →](gemini/pl/README.md) |
+| **🟢 Learn AI with ChatGPT** | OpenAI | [Start →](gpt/en/README.md) | [Zacznij →](gpt/pl/README.md) |
 
-Or open a course's landing page: [Claude](claude/README.md) · [Gemini](gemini/README.md)
+Or open a course's landing page: [Claude](claude/README.md) · [Gemini](gemini/README.md) · [ChatGPT](gpt/README.md)
 
 ---
 
 ## What's inside each course · Co zawiera każdy kurs
 
-Both courses follow the same beginner-friendly path (the tools differ per provider):
+All three courses follow the same beginner-friendly path (the tools differ per provider):
 
-Oba kursy podążają tą samą przyjazną początkującym ścieżką (narzędzia różnią się zależnie od dostawcy):
+Wszystkie trzy kursy podążają tą samą przyjazną początkującym ścieżką (narzędzia różnią się zależnie od dostawcy):
 
 1. **Foundations · Podstawy** — what AI is, first chat, prompting, files & images
 2. **In your day · Na co dzień** — desktop/browser app, everyday workflows, custom assistants
 3. **First code · Pierwszy kod** — install Python, get an API key, first script, PowerShell
 4. **Coding with AI · Kodowanie z AI** — VS Code extension, command-line assistant, a mini project
-5. **Level up · Wyższy poziom** — connect AI to tools/data, prompt engineering, costs & safety, next steps
+5. **Level up · Wyższy poziom** — connect AI to live data/tools, prompt engineering, costs & safety, next steps
 
 ---
 
 ## Which one should I pick? · Który wybrać?
 
-- **New to all this?** Either is a great start. Pick the one whose app you already use.
+- **New to all this?** Any is a great start. Pick the one whose app you already use.
 - **Nowy w temacie?** Każdy to świetny początek. Wybierz ten, którego aplikacji już używasz.
-- **Want to compare?** Do both — the concepts transfer, and you'll see how each provider's tools differ.
-- **Chcesz porównać?** Zrób oba — koncepcje się przenoszą, a zobaczysz, jak różnią się narzędzia obu dostawców.
+- **Want to compare?** Do more than one — the concepts transfer, and you'll see how each provider's tools differ.
+- **Chcesz porównać?** Zrób więcej niż jeden — koncepcje się przenoszą, a zobaczysz, jak różnią się narzędzia dostawców.
 
 ---
 
