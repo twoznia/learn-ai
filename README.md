@@ -30,12 +30,13 @@ Deep-dive tracks — from power-user habits to building your own tools — with 
 | 🔷 **Advanced Gemini** | Google | [Open →](gemini/advanced/en/README.md) |
 | 🟢 **Advanced ChatGPT** | OpenAI | [Open →](gpt/advanced/en/README.md) |
 
-### Coding-assistant course
+### Skills courses
 
-A hands-on course on the **coding-assistant workflow** — using GitHub Copilot with VS Code and GitHub, from first completions to automatic PR reviews and the coding agent.
+Provider-neutral and workflow courses that complement the provider tracks.
 
 | Course | Focus | Start |
 |--------|-------|-------|
+| ✏️ **Prompt Engineering** | Works with Claude, Gemini & ChatGPT | [Start →](prompting/en/README.md) |
 | ⚫ **GitHub Copilot + VS Code** | Copilot · VS Code · GitHub | [Start →](copilot/en/README.md) |
 
 ### What's inside each beginner course
@@ -78,12 +79,13 @@ Pogłębione ścieżki — od nawyków zaawansowanego użytkownika po budowę w�
 | 🔷 **Gemini zaawansowany** | Google | [Otwórz →](gemini/advanced/pl/README.md) |
 | 🟢 **ChatGPT zaawansowany** | OpenAI | [Otwórz →](gpt/advanced/pl/README.md) |
 
-### Kurs asystenta kodowania
+### Kursy umiejętności
 
-Praktyczny kurs o **przepływie pracy z asystentem kodowania** — używanie GitHub Copilota z VS Code i GitHubem, od pierwszych uzupełnień po automatyczne przeglądy PR i agenta kodującego.
+Kursy niezależne od dostawcy i przepływowe, uzupełniające ścieżki dostawców.
 
 | Kurs | Zakres | Zacznij |
 |------|--------|---------|
+| ✏️ **Inżynieria promptów** | Działa z Claude, Gemini i ChatGPT | [Zacznij →](prompting/pl/README.md) |
 | ⚫ **GitHub Copilot + VS Code** | Copilot · VS Code · GitHub | [Zacznij →](copilot/pl/README.md) |
 
 ### Co zawiera każdy kurs dla początkujących
