@@ -1,6 +1,6 @@
 # Claude zaawansowany — trzy pogłębione ścieżki
 
-🌐 **Język:** [English](../en/README.md) · **Polski** · [↩ Strona zaawansowana](../README.md) · [↩ Kurs podstawowy](../pl/README.md)
+🌐 **Język:** [English](../en/README.md) · **Polski** · [↩ Strona zaawansowana](../README.md) · [↩ Kurs podstawowy](../../pl/README.md) · [↩ Wszystkie kursy](../../../README.md)
 
 Ukończyłeś kurs podstawowy — umiesz rozmawiać, tworzyć prompty, wysyłać pliki i wywoływać API. Ten kurs zaawansowany bierze **trzy kierunki rozwoju z Lekcji 18** i zamienia każdy w praktyczną ścieżkę. Pod Windows, gotowy do skopiowania kod, ~15 minut na lekcję.
 

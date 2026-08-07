@@ -1,6 +1,6 @@
 # Naucz się AI z Gemini — 10-minutowe lekcje dla Windows
 
-🌐 **Język:** [English](../en/README.md) · **Polski** · [↩ Strona kursu](../README.md) · [↩ Wszystkie kursy](../../README.md)
+🌐 **Język:** [English](../en/README.md) · **Polski** · [↩ Strona kursu](../README.md) · [↩ Wszystkie kursy](../../README.md) · [Kurs zaawansowany →](../advanced/pl/README.md)
 
 Praktyczny kurs dla początkujących, który uczy, jak **używać AI opartego na Google Gemini** — od pierwszej rozmowy w przeglądarce po pisanie kodu rozmawiającego z Gemini z poziomu Pythona, PowerShell, VS Code i wiersza poleceń.
 

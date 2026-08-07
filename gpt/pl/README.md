@@ -1,6 +1,6 @@
 # Naucz się AI z ChatGPT — 10-minutowe lekcje dla Windows
 
-🌐 **Język:** [English](../en/README.md) · **Polski** · [↩ Strona kursu](../README.md) · [↩ Wszystkie kursy](../../README.md)
+🌐 **Język:** [English](../en/README.md) · **Polski** · [↩ Strona kursu](../README.md) · [↩ Wszystkie kursy](../../README.md) · [Kurs zaawansowany →](../advanced/pl/README.md)
 
 Praktyczny kurs dla początkujących, który uczy, jak **używać AI opartego na modelach GPT od OpenAI** — od pierwszej rozmowy w przeglądarce po pisanie kodu rozmawiającego z GPT z poziomu Pythona, PowerShell, VS Code i wiersza poleceń.
 

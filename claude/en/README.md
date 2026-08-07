@@ -1,6 +1,6 @@
 # Learn AI with Claude — 10-Minute Lessons for Windows
 
-🌐 **Language:** **English** · [Polski](../pl/README.md) · [↩ Home](../README.md)
+🌐 **Language:** **English** · [Polski](../pl/README.md) · [↩ Course landing](../README.md) · [↩ All courses](../../README.md) · [Advanced course →](../advanced/en/README.md)
 
 A hands-on beginner course that teaches you how to **use AI powered by Claude** — from your very first chat in the browser to writing code that talks to Claude from Python, PowerShell, VS Code, and the command line.
 
