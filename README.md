@@ -22,13 +22,21 @@ Hands-on, beginner-friendly courses that teach you how to **actually use AI** on
 
 ### Advanced courses
 
-Deep-dive tracks — from power-user habits to building your own tools — with hands-on 15-minute lessons. (Claude and Gemini have seven tracks; ChatGPT has three.)
+Deep-dive tracks — from power-user habits to building your own tools — with hands-on 15-minute lessons. All three providers now have **seven tracks**.
 
 | Course | Provider | Open |
 |--------|----------|------|
 | 🟣 **Advanced Claude** | Anthropic | [Open →](claude/advanced/en/README.md) |
 | 🔷 **Advanced Gemini** | Google | [Open →](gemini/advanced/en/README.md) |
 | 🟢 **Advanced ChatGPT** | OpenAI | [Open →](gpt/advanced/en/README.md) |
+
+### Coding-assistant course
+
+A hands-on course on the **coding-assistant workflow** — using GitHub Copilot with VS Code and GitHub, from first completions to automatic PR reviews and the coding agent.
+
+| Course | Focus | Start |
+|--------|-------|-------|
+| ⚫ **GitHub Copilot + VS Code** | Copilot · VS Code · GitHub | [Start →](copilot/en/README.md) |
 
 ### What's inside each beginner course
 
@@ -62,13 +70,21 @@ Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI
 
 ### Kursy zaawansowane
 
-Pogłębione ścieżki — od nawyków zaawansowanego użytkownika po budowę własnych narzędzi — z praktycznymi lekcjami po 15 minut. (Claude i Gemini mają siedem ścieżek; ChatGPT trzy.)
+Pogłębione ścieżki — od nawyków zaawansowanego użytkownika po budowę własnych narzędzi — z praktycznymi lekcjami po 15 minut. Wszyscy trzej dostawcy mają teraz **siedem ścieżek**.
 
 | Kurs | Dostawca | Otwórz |
 |------|----------|--------|
 | 🟣 **Claude zaawansowany** | Anthropic | [Otwórz →](claude/advanced/pl/README.md) |
 | 🔷 **Gemini zaawansowany** | Google | [Otwórz →](gemini/advanced/pl/README.md) |
 | 🟢 **ChatGPT zaawansowany** | OpenAI | [Otwórz →](gpt/advanced/pl/README.md) |
+
+### Kurs asystenta kodowania
+
+Praktyczny kurs o **przepływie pracy z asystentem kodowania** — używanie GitHub Copilota z VS Code i GitHubem, od pierwszych uzupełnień po automatyczne przeglądy PR i agenta kodującego.
+
+| Kurs | Zakres | Zacznij |
+|------|--------|---------|
+| ⚫ **GitHub Copilot + VS Code** | Copilot · VS Code · GitHub | [Zacznij →](copilot/pl/README.md) |
 
 ### Co zawiera każdy kurs dla początkujących
 
