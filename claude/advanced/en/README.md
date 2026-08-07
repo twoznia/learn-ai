@@ -1,6 +1,6 @@
 # Advanced Claude — Three Deep-Dive Tracks
 
-🌐 **Language:** **English** · [Polski](../pl/README.md) · [↩ Advanced landing](../README.md) · [↩ Beginner course](../en/README.md)
+🌐 **Language:** **English** · [Polski](../pl/README.md) · [↩ Advanced landing](../README.md) · [↩ Beginner course](../../en/README.md) · [↩ All courses](../../../README.md)
 
 You finished the beginner course — you can chat, prompt, upload files, and call the API. This advanced course takes the **three growth paths from Lesson 18** and turns each into a hands-on track. Windows-focused, copy-ready code, ~15 minutes per lesson.
 

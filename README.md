@@ -10,7 +10,7 @@ Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI
 
 ## 🇬🇧 English
 
-Hands-on, beginner-friendly courses that teach you how to **actually use AI** on your own **Windows** PC — from your first browser chat to writing code in Python, PowerShell, VS Code and the command line. Every lesson is ~10 minutes, with theory, practice, a checkpoint and homework. When you finish, each provider has an **advanced** course with three growth tracks.
+Hands-on, beginner-friendly courses that teach you how to **actually use AI** on your own **Windows** PC — from your first browser chat to writing code in Python, PowerShell, VS Code and the command line. Every lesson is ~10 minutes, with theory, practice, a checkpoint and homework. When you finish, each provider has an **advanced** course with deep-dive tracks.
 
 ### Beginner courses
 
@@ -22,7 +22,7 @@ Hands-on, beginner-friendly courses that teach you how to **actually use AI** on
 
 ### Advanced courses
 
-Three growth tracks each — 🅰️ Power User, 🅱️ Builder, 🅲 Automator — with hands-on 15-minute lessons.
+Deep-dive tracks — from power-user habits to building your own tools — with hands-on 15-minute lessons. (Claude and Gemini have seven tracks; ChatGPT has three.)
 
 | Course | Provider | Open |
 |--------|----------|------|
@@ -50,7 +50,7 @@ All three courses follow the same beginner-friendly path (the tools differ per p
 
 ## 🇵🇱 Polski
 
-Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI** na własnym komputerze z **Windows** — od pierwszej rozmowy w przeglądarce po pisanie kodu w Pythonie, PowerShell, VS Code i wierszu poleceń. Każda lekcja trwa ~10 minut i zawiera teorię, praktykę, sprawdzenie i zadanie. Po ukończeniu każdy dostawca ma kurs **zaawansowany** z trzema ścieżkami rozwoju.
+Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI** na własnym komputerze z **Windows** — od pierwszej rozmowy w przeglądarce po pisanie kodu w Pythonie, PowerShell, VS Code i wierszu poleceń. Każda lekcja trwa ~10 minut i zawiera teorię, praktykę, sprawdzenie i zadanie. Po ukończeniu każdy dostawca ma kurs **zaawansowany** z pogłębionymi ścieżkami.
 
 ### Kursy dla początkujących
 
@@ -62,7 +62,7 @@ Praktyczne kursy dla początkujących, które uczą, jak **naprawdę używać AI
 
 ### Kursy zaawansowane
 
-Po trzy ścieżki rozwoju — 🅰️ Zaawansowany użytkownik, 🅱️ Budowniczy, 🅲 Automatyzator — z praktycznymi lekcjami po 15 minut.
+Pogłębione ścieżki — od nawyków zaawansowanego użytkownika po budowę własnych narzędzi — z praktycznymi lekcjami po 15 minut. (Claude i Gemini mają siedem ścieżek; ChatGPT trzy.)
 
 | Kurs | Dostawca | Otwórz |
 |------|----------|--------|

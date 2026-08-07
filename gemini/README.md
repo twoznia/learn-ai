@@ -19,9 +19,9 @@ Praktyczny kurs dla początkujących, który uczy, jak **używać AI opartego na
 
 ## Finished the basics? · Skończyłeś podstawy?
 
-Continue with the **[Advanced Gemini course →](advanced/README.md)** — three deep-dive tracks (Power User, Builder, Automator).
+Continue with the **[Advanced Gemini course →](advanced/README.md)** — seven deep-dive tracks, from power-user habits to building your own tools.
 
-Kontynuuj **[kursem Gemini zaawansowanym →](advanced/README.md)** — trzy pogłębione ścieżki (Zaawansowany użytkownik, Budowniczy, Automatyzator).
+Kontynuuj **[kursem Gemini zaawansowanym →](advanced/README.md)** — siedem pogłębionych ścieżek, od nawyków zaawansowanego użytkownika po budowę własnych narzędzi.
 
 ---
 

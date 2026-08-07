@@ -12,10 +12,10 @@ Kolejny krok po podstawowym kursie ChatGPT. Trzy **ścieżki** prowadzą kierunk
 
 ## Choose your language · Wybierz język
 
-| | Course | Kurs |
-|---|--------|------|
-| 🇬🇧 **English** | [Start →](en/README.md) | |
-| 🇵🇱 **Polski** | | [Zacznij →](pl/README.md) |
+| Language · Język | |
+|------------------|---|
+| 🇬🇧 **English** | [Start →](en/README.md) |
+| 🇵🇱 **Polski** | [Zacznij →](pl/README.md) |
 
 ---
 
