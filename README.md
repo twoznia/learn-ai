@@ -39,6 +39,14 @@ Provider-neutral and workflow courses that complement the provider tracks.
 | ✏️ **Prompt Engineering** | Works with Claude, Gemini & ChatGPT | [Start →](prompting/en/README.md) |
 | ⚫ **GitHub Copilot + VS Code** | Copilot · VS Code · GitHub | [Start →](copilot/en/README.md) |
 
+### Capstone project
+
+The final project that ties it all together — **build a real AI agent** (a "Second Brain" that captures, searches, and answers over your own notes) on your Claude Pro/Max subscription, using a custom **MCP server with tools** and your own **Skills**.
+
+| Project | Build | Start |
+|---------|-------|-------|
+| 🧠 **Second Brain Agent** | Claude Code · MCP tools · Skills | [Start →](capstone/en/README.md) |
+
 ### What's inside each beginner course
 
 All three courses follow the same beginner-friendly path (the tools differ per provider):
@@ -87,6 +95,14 @@ Kursy niezależne od dostawcy i przepływowe, uzupełniające ścieżki dostawc�
 |------|--------|---------|
 | ✏️ **Inżynieria promptów** | Działa z Claude, Gemini i ChatGPT | [Zacznij →](prompting/pl/README.md) |
 | ⚫ **GitHub Copilot + VS Code** | Copilot · VS Code · GitHub | [Zacznij →](copilot/pl/README.md) |
+
+### Projekt końcowy
+
+Finalny projekt spinający wszystko — **zbuduj prawdziwego agenta AI** („Drugi Mózg", który przechwytuje, przeszukuje i odpowiada na podstawie Twoich notatek) na abonamencie Claude Pro/Max, używając własnego **serwera MCP z narzędziami** i własnych **Skilli**.
+
+| Projekt | Budujesz | Zacznij |
+|---------|----------|---------|
+| 🧠 **Agent Drugiego Mózgu** | Claude Code · narzędzia MCP · Skille | [Zacznij →](capstone/pl/README.md) |
 
 ### Co zawiera każdy kurs dla początkujących
 
